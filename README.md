@@ -1,5 +1,5 @@
 # Spotify-Mod
-Video, audio & banner adblock/skip for Spotify
+## Video, audio & banner adblock/skip for Spotify
 
 **Current Version:** 0.13
 
