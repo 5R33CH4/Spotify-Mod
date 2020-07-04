@@ -9,7 +9,7 @@
 
 ### Important Notice
 
-If you are using Spotify 1.1.5.xxx or newer, please use run the automatic downgrade script [here](https://github.com/5R33CH4/Spotify-Mod/raw/master/downgrade.bat) which will downgrade to 1.1.4.197.g92d52c4f and also disable auto-update. Thanks @CHEF-KOCH.
+If you are using Spotify 1.1.5.xxx or newer, please use run the automatic downgrade script [here](https://github.com/5R33CH4/Spotify-Mod/raw/master/downgrade.bat) which will downgrade to 1.1.4.197.g92d52c4f and also disable auto-update.
 
 #### How do I re-enable automatic updates?
 
